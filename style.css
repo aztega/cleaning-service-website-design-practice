@@ -15,6 +15,7 @@ width: 95%;
 
 .logo img {
   width: 150px;
+  margin: 10px auto auto auto;
 }
 
 header {
@@ -127,14 +128,13 @@ h1 {
   cursor: pointer;
 }
 
-
 .hero-form {
   max-width: 400px;
   background-color: #fff;
   margin: auto 40px;
   border-radius: 5px;
   padding: 20px;
-  
+
 }
 
 .hero-form h3 {
@@ -148,7 +148,6 @@ form {
  height: auto;
   
 }
-
 
 .input-field {
   max-width: 100%;
@@ -203,7 +202,7 @@ button[type=submit]:hover {
   background-color: #C9D6DF;
   color: #0B3C5D;
   border: none;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .form-footer p {
@@ -212,4 +211,5 @@ button[type=submit]:hover {
   margin-top: 10px;
   color: #1F2933;
   margin: 20px auto;
+
 }
