@@ -9,7 +9,6 @@ body {
 }
 
 .main-container {
-width: 95%;
   margin: auto;
 }
 
@@ -42,6 +41,7 @@ nav a {
   border-bottom: solid 5px transparent;
   transform: all 3s ease;
   padding: 5px;
+  font-size: 16px;
 
 }
 
